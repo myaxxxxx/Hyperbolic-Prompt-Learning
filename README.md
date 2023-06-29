@@ -50,7 +50,7 @@ if you want to use hyperbolic, please set
 --prefix or --prompt
 ```
 
-### Background: Euclidean and Hyperbolic Geometry
+### Background: Hyperbolic and Euclidean Geometry
 ![image](background.png)
 
 
