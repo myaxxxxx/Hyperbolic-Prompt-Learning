@@ -5,7 +5,7 @@ Source codes and data for
 * [EMNLP 2023 under review] [Hyperbolic Representations for Prompt Learning]
 
 ### Overview
-![image](./figure/overview)
+![image](overview.png)
 
 
 
