@@ -1,8 +1,28 @@
-# Hyperbolic Prompt Learning
+
+
+<h2 align="center">
+Hyperbolic Representations for Prompt Learning
+</h2>
+
+<p align="center">
+  <!-- <img src="https://img.shields.io/badge/EMNLP-2023-brightgreen"> -->
+  <!-- <under review><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a> -->
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
+</p>
+
+<p align="center">
+Source codes and data for
+* [Coling 2024 under review] [Hyperbolic Representations for Prompt Learning]
+After the review period, we will open-source the code on our GitHub.
+</p>
+
+
+<!-- # Hyperbolic Prompt Learning
 
 
 Source codes and data for
-* [EMNLP 2023 under review] [Hyperbolic Representations for Prompt Learning]
+* [Coling 2024 under review] [Hyperbolic Representations for Prompt Learning] -->
 
 ### Overview
 ![image](overview.png)
