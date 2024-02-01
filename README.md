@@ -85,6 +85,8 @@ if you want to use hyperbolic, please set
 
 Next, we will conduct experiments on Dcdoeer-only models (such as GPT) in the future.
 
+*Refer to the e-mail of "authors Response Period" (Above all, the response facility should not be used to report on new results, obtained since the submission deadline closed). We will add more results after Notification of acceptance.*
+
 
 
 
