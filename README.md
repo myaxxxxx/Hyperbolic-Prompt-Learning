@@ -83,7 +83,7 @@ if you want to use hyperbolic, please set
 
 ### To do
 
-Next, we will conduct experiments on Dcdoeer-only models (such as GPT).
+Next, we will conduct experiments on Dcdoeer-only models (such as GPT) in the future.
 
 
 
