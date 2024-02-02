@@ -76,8 +76,8 @@ if you want to use hyperbolic, please set
 ### Visualized Representations of Poincar´e (left) and Euclidean model (right)
 
 <div style="text-align: center">
-<img src="figures/euc.jpg" width = "40%"/>
-<img src="figures/hper.jpg" width = "41%"/>
+<img src="figures/euc.jpg" width = "25%" position = "left"/>
+<img src="figures/hper.jpg" width = "26%" position = "right"/>
 </div>
 
 
@@ -85,7 +85,7 @@ if you want to use hyperbolic, please set
 
 Next, we will conduct experiments on Dcdoeer-only models (such as GPT) in the future.
 
-*Refer to the e-mail of "authors Response Period" (Above all, the response facility should not be used to report on new results, obtained since the submission deadline closed). We will add more results after the period of Notification of acceptance.*
+*Refer to the e-mail of "authors Response Period" (Above all, the response facility should not be used to report on new results, obtained since the submission deadline closed), we will add more results after the period of notification of acceptance.*
 
 
 
